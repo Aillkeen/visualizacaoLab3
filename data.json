@@ -1,0 +1,29 @@
+[
+
+    [
+      {"area": "Nota 0", "value": 2},
+      {"area": "Nota 10", "value": 20},
+      {"area": "Nota 9 ", "value": 5},
+      {"area": "Nota 8 ", "value": 13},
+      {"area": "Nota 7 ", "value": 16},
+      {"area": "Nota 6 ", "value": 12},
+      {"area": "Nota 5", "value": 13},
+      {"area": "Nota 4", "value": 6},
+      {"area": "Nota 3", "value": 6},
+      {"area": "Nota 2", "value": 5},
+      {"area": "Nota 1", "value": 2}
+      ],
+    [
+      {"area": "Nota 0", "value": 4},
+      {"area": "Nota 10", "value": 5},
+      {"area": "Nota 9 ", "value": 5},
+      {"area": "Nota 8 ", "value": 12},
+      {"area": "Nota 7 ", "value": 9},
+      {"area": "Nota 6 ", "value": 11},
+      {"area": "Nota 5", "value": 25},
+      {"area": "Nota 4", "value": 8},
+      {"area": "Nota 3", "value": 10},
+      {"area": "Nota 2", "value": 8},
+      {"area": "Nota 1", "value": 3}
+      ]
+]
