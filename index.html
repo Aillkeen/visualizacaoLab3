@@ -10,12 +10,12 @@
   height:30px;
   background-color: #6F257F;
   position: absolute;
-  left: 270px;
+  left: 33%;
   top: 600px;
  }
  p.l1{
   position: absolute;
-  left: 310px;
+  left: 37%;
   top:  590px;
  }
 
@@ -24,12 +24,12 @@
   height:30px;
   background-color: #CA0D59;
   position: absolute;
-  left: 50%;
+  left: 60%;
   top: 600px;
  }
  p.l2{
   position: absolute;
-  left: 53%;
+  left: 64%;
   top:  590px;
  }
 body {
@@ -48,7 +48,7 @@ body {
 #chart {
     position: absolute;
     top: 50px;
-    left: 100px;
+    left: 230px;
 }
 
   .toolTip {
@@ -85,7 +85,7 @@ body {
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="RadarChart.js"></script>
 
-<div id="chart"></div>
+<div id="chart" align="center"></div>
 
 <script>
 var width = 450,
@@ -112,7 +112,10 @@ var svg = d3.select('body')
     .attr("width", width)
     .attr("height", height);
 </script>
-<body><div class="l1"></div><p class="l1">Quão aleatório você acha que foi</p>
+<body>
+    <h2> <center> Quem acha que respondeu o form de maneira mais aleatória do que se considera?</center></h2>
+
+    <div class="l1"></div><p class="l1">Quão aleatório você acha que foi</p>
     <div class="l2"></div><p class="l2">Quão aleatório você acha que você é</p></body>
 <html>
 
